@@ -75,7 +75,26 @@ WHERE milliseconds > (
 ORDER BY milliseconds DESC
 
 
+#  INSIGHTS ;-
+                 - Madan mohan( senior gen. manager)  is the most senior most employee of the company.
+	         
+                 - countries having maximum invoices are USA,Canada & brazil.
 
+	         - prague is the city having most invoice.
+
+	         - R Madhav is the best customer who spent the most money.
+
+	         - most popular genre is rock.
+
+	         - Artists who have written maximum rock songs  Angus young & malcom young.
+
+	         - Track naming 'precipice' is the longest track as 5286953 milliseconds.
+
+# CONCLUSION :
+               Organise festivals,Music concerts in countries like USA,Canada & Brazil. Also, cities like Prague should be focused more by providing them 
+               offers. Best customer like R madhav should be rewarded so as to make customers keen towards becoming best customer for which they have to
+               purchase more. Artists creating most popular songs should be encouraged as they are leading to increase in particular song purchase among 
+               customers.
 
 
     
