@@ -1,7 +1,7 @@
 # Music_company_dataset_analysis_using_sql
 
 
-# Performed different kind of analytics for a global music company to solve their business problem.
+# Performed data analysis on dataset of a global music company to solve their business problem.
 
 
 # The company wanted to gain insights about their top performing employee and artists. Also, they want to gain insights regarding the most revenue generating states and city.
